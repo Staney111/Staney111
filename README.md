@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#i'm new to GitHub and i am, for now exploring and masterinf the GitHub plateforme, which means i'm not contributing to any project at the moment, but wait, i'll soon be there
+#i'm new to GitHub and i am, for now exploring and mastering the GitHub plateforme, which means i'm not contributing to any project at the moment, but wait, i'll soon be there
 <!--
 **Staney111/Staney111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
